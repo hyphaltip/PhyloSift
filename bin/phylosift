@@ -99,7 +99,7 @@ Options Available at this time :
    --output=<dir>        Specifies an output directory other than PStemp
    --debug               Prints debugging messages
    --keep_search         Keeps the blastDir files (Default: Delete the blastDir files after every chunk)
-   --chunk=<Number>      Only run a set number of chunks
+   --chunks=<Number>      Only run a set number of chunks
    --chunk_size=<Number> Run so many sequences per chunk
 
 ~;
